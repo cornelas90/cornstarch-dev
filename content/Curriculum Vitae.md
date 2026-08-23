@@ -1,7 +1,6 @@
-# Curriculum Vitae
-## Christian Ornelas - Data Engineer
+# Christian Ornelas - Data Engineer
 
-Standard Resume downloadable here: Placeholder.
+Standard Resume downloadable here: [[CDO_Resume_07_16_2026.pdf]].
 ## Summary
 
 A highly autonomous data engineer who is passionate about systemic optimization and automation. 

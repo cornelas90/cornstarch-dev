@@ -1,11 +1,7 @@
 ---
-
-title: Welcome to Quartz
-
+title: Christian Ornelas
 ---
 
   
 
-This is a blank Quartz installation.
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started. hello test. and test again.................. Helloooooo?!?!??!!!
+Data Engineer and fanatic. 5 years of professional experience creating and enriching data solutions. 7 years of academic training in statistical and analytical frameworks. 
