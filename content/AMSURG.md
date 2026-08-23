@@ -1,14 +1,33 @@
 ---
-modified: 2026-08-23T00:21:46-04:00
+modified: 2026-08-23T00:30:07-04:00
 ---
-**industry:** healthcare
-**company type:** private
-**size:** ~3600 corporate employees
-**location:** nashville, tennessee
+# company information
 
-**team:** information technology
-**role:** data engineer
-**mode:**  remote
+**industry**  
+healthcare
 
-**business areas:** marketing, customer experience, finance
-**tech stack:** azure, sql server, tableau
+**company type**  
+private
+
+**size**  
+~3600 corporate employees
+
+**location**  
+nashville, tennessee
+# role information
+
+**team**  
+information technology
+
+**role**  
+data engineer
+
+**mode**  
+remote
+
+**business areas**  
+marketing · customer experience · finance
+
+**tech stack**  
+azure · sql server · tableau
+
