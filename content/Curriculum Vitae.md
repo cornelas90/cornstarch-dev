@@ -1,130 +1,131 @@
-# Christian Ornelas - Data Engineer
+---
+modified: 2026-08-23T00:05:48-04:00
+---
 
-Standard Resume downloadable here: [[CDO_Resume_07_16_2026.pdf]].
-## Summary
+## summary
+a highly autonomous data engineer who is passionate about systemic optimization and automation. 
+## professional experience
+### [[vulcan elements]] - *durham, north carolina*
+#### **data engineer (august 2026 – present)**
+- tbd
+### [[permobil]] - *lebanon, tennessee*
+#### **data engineer (may 2023 – august 2026)**
+- architected and deployed a production-grade [[microsoft fabric]] lakehouse solution with integrated dbt transformation layer, enabling scalable, modular data modeling across domains.
+- led full ERP data platform overhaul, implementing end-to-end devops workflows, ci/cd pipelines, and multi-environment (dev/test/prod) deployment strategy, significantly improving release reliability and governance.
+- automated and optimized critical data processes, delivering ~10,000 annual person-hours in operational savings.
+- provided high-precision data support to QA during FDA recall, enabling accurate regulatory compliance.
+- engineered a python-based mass communication application generating and distributing 10,000+ personalized pdf documents, reducing manual workload by ~5,400 hours over 6 months.
+- enhanced in-house customer order tracker by generalizing logic, leading to improved accuracy, increased dynamic functionality, and reduced customer experience inquiries. 
+- designed and maintained robust etl pipelines integrating multi-entity erp data, ensuring consistency for downstream analytics.
+- collaborated with business stakeholders to engineer data solutions supporting large-scale financial and usage analyses, including comprehensive usage and pricing studies.
+- operated as primary technical lead and stakeholder liaison on multiple initiatives, owning project scoping, execution, and cross-functional alignment.
+- mentored junior engineers on data modeling, testing, and pipeline design, improving team code quality and deployment discipline.
 
-A highly autonomous data engineer who is passionate about systemic optimization and automation. 
+### [[amsurg]] - *nashville, tennessee*
+#### **data engineer (july 2022 – may 2023)**
+- designed and implemented the organization’s first machine learning data platform using azure databricks and data factory, establishing a foundation for ai-driven analytics.
+- developed and deployed a robust weekly case volume prediction model, allowing operations to accurately monitor hundreds of millions of dollars in monthly revenue and salary expenditures.
+- built and maintained data pipelines and star schema models supporting analytics and reporting across clinical and operational domains.
+- delivered stakeholder-facing dashboards and data products, translating business requirements into production-ready data solutions.
+- partnered with business and analytics teams to design etl workflows aligned with reporting and operational decision-making needs
 
-## Professional Experience
-### [[Permobil]] - *Lebanon, TN*
-#### **Data Engineer (May 2023 – August 2026)**
-- Architected and deployed a production-grade [[Microsoft Fabric]] Lakehouse solution with integrated dbt transformation layer, enabling scalable, modular data modeling across domains.
-- Led full ERP data platform overhaul, implementing end-to-end DevOps workflows, CI/CD pipelines, and multi-environment (dev/test/prod) deployment strategy, significantly improving release reliability and governance.
-- Automated and optimized critical data processes, delivering ~10,000 annual person-hours in operational savings.
-- Provided high-precision data support to QA during FDA recall, enabling accurate regulatory compliance.
-- Engineered a Python-based mass communication application generating and distributing 10,000+ personalized PDF documents, reducing manual workload by ~5,400 hours over 6 months.
-- Enhanced in-house customer order tracker by generalizing logic, leading to improved accuracy, increased dynamic functionality, and reduced Customer Experience inquiries. 
-- Designed and maintained robust ETL pipelines integrating multi-entity ERP data, ensuring consistency for downstream analytics.
-- Collaborated with business stakeholders to engineer data solutions supporting large-scale financial and usage analyses, including comprehensive usage and pricing studies.
-- Operated as primary technical lead and stakeholder liaison on multiple initiatives, owning project scoping, execution, and cross-functional alignment.
-- Mentored junior engineers on data modeling, testing, and pipeline design, improving team code quality and deployment discipline.
+#### **data analyst  (july 2021 – july 2022)**
+- developed a labor analytics dashboard used by senior leadership to monitor workforce performance and staffing efficiency, contributing to proactive operational decision-making.
+- built and maintained data pipelines and reporting assets supporting personnel and operational analysis.
+- collaborated with stakeholders to gather requirements and deliver custom data solutions aligned with departmental goals.
+- investigated and resolved data quality and reporting issues, improving accuracy and trust in analytics outputs.
 
-### [[AMSURG]] - *Nashville, TN*
-#### **Data Engineer (July 2022 – May 2023)**
-- Designed and implemented the organization’s first machine learning data platform using Azure Databricks and Data Factory, establishing a foundation for AI-driven analytics.
-- Developed and deployed a robust weekly case volume prediction model, allowing Operations to accurately monitor hundreds of millions of dollars in monthly revenue and salary expenditures.
-- Built and maintained data pipelines and star schema models supporting analytics and reporting across clinical and operational domains.
-- Delivered stakeholder-facing dashboards and data products, translating business requirements into production-ready data solutions.
-- Partnered with business and analytics teams to design ETL workflows aligned with reporting and operational decision-making needs
+## teaching and mentorship experience
 
-#### **Data Analyst  (July 2021 – July 2022)**
-- Developed a labor analytics dashboard used by senior leadership to monitor workforce performance and staffing efficiency, contributing to proactive operational decision-making.
-- Built and maintained data pipelines and reporting assets supporting personnel and operational analysis.
-- Collaborated with stakeholders to gather requirements and deliver custom data solutions aligned with departmental goals.
-- Investigated and resolved data quality and reporting issues, improving accuracy and trust in analytics outputs.
+**teaching assistant (2018 – 2021)**
+_department of physics, vanderbilt university, nashville, tn_
+- awarded as “outstanding graduate student teaching assistant”, based on student and department evaluation.
 
-## Teaching and Mentorship Experience
+**mentor** **(2019 – 2020)**
+_honors stem research course for harpeth hall school_
+- mentored underrepresented student, cultivating scientific reasoning, experimental skills, and interest in physics.
 
-**Teaching Assistant (2018 – 2021)**
-_Department of Physics, Vanderbilt University, Nashville, TN_
-- Awarded as “outstanding graduate student teaching assistant”, based on student and department evaluation.
+## education
+### _[[vanderbilt university]], nashville, tn_
+**master of science, [[physics]] - may 2021**
+### _[[university of illinois at urbana – champaign]], il_
+**bachelor of science, physics - december 2017**
 
-**Mentor** **(2019 – 2020)**
-_Honors STEM Research Course for Harpeth Hall School_
-- Mentored underrepresented student, cultivating scientific reasoning, experimental skills, and interest in physics.
-
-## Education
-### _[[Vanderbilt University]], Nashville, TN_
-**Master of Science, [[Physics]] - May 2021**
-### _[[University of Illinois at Urbana – Champaign]], IL_
-**Bachelor of Science, Physics - December 2017**
-
-## Publications
-**Ultrafast Photocurrent Response and High Detectivity in Two-Dimensional MoSe2‑based Heterojunctions** 
-DOI: https://dx.doi.org/10.1021/acsami.0c12155
-Citation: ACS Appl. Mater. Interfaces 2020, 12, 46476−46482
-## Technical and Soft Skills
-### Programming Languages
-- SQL (T-SQL, MySQL, SSMS) 
-- Python (Scikit-learn, Pandas, Numpy, pyodbc, lxml)
-- Pyspark
-- SQLSpark
-### Tools & Technologies
-- Azure Databricks
-- Azure DataFactory
-- Azure DevOps
+## publications
+**ultrafast photocurrent response and high detectivity in two-dimensional MoSe2‑based heterojunctions** 
+doi: https://dx.doi.org/10.1021/acsami.0c12155
+citation: acs appl. mater. interfaces 2020, 12, 46476−46482
+## technical and soft skills
+### programming languages
+- sql (t-sql, mysql, ssms) 
+- python (scikit-learn, pandas, numpy, pyodbc, lxml)
+- pyspark
+- sqlspark
+### tools & technologies
+- azure databricks
+- azure datafactory
+- azure devops
 - dbt
-- Microsoft Fabric
-- Microsoft OneLake
-- Lakehousing
-- Office Suite, 
-- Dynamics 365
-- Visual Studio
-- Git
-- Anaconda
-- Jupyter Notebook
-- Varigence BimlFlex
-- Varigence BimlStudio
-- JIRA
-- Obsidian
-### Data Integration
+- microsoft fabric
+- microsoft onelake
+- lakehousing
+- office suite, 
+- dynamics 365
+- visual studio
+- git
+- anaconda
+- jupyter notebook
+- varigence bimlflex
+- varigence bimlstudio
+- jira
+- obsidian
+### data integration
 - REST API
-- Postman
+- postman
 - XML
 - JSON
 - HTML
-- JSON
-- Data mapping
-### Data Skills
-- Data Cleaning and Preprocessing 
-- Data Wrangling
-- Data Mining
-- ETL
-- Pipelining
-- Star Schema
-- Snowflake Schema
-- Medallion Data Architecture
+- data mapping
+### data skills
+- data cleaning and preprocessing 
+- data wrangling
+- data mining
+- ETL / ELT
+- pipelining
+- star schema
+- snowflake schema
+- medallion data architecture
 
-#### Data Visualization
+#### data visualization
 - Tableau
 - PowerBI
 - Matplotlib
 - Seaborn
-####  Soft Skills 
-- Stakeholder Translation
-- Regulatory Awareness
-- Autonomous
-- Quality Advocate
-- Autodidactic
-- Decisive Leadership
-- Mentorship
-- Cross-Functional Alignment
+####  soft skills 
+- stakeholder translation
+- regulatory awareness
+- autonomous
+- quality advocate
+- autodidactic
+- decisive leadership
+- mentorship
+- cross-functional alignment
 
-## Interests
-### Music
-- Guitar
-- Electronic Music
-- Vinyl Record Collecting (discogs in note)
+## interests
+### music
+- guitar
+- electronic music
+- vinyl record collecting (discogs in note)
 
-### Home Infrastructure
-- Home Assistant
-- Home Server
-- Proton Privacy Suite
-- Pi-Hole
-- Unbound
+### home infrastructure
+- home assistant
+- home server
+- proton privacy suite
+- pi-hole
+- unbound
 
-### Leisure
-- Surfing
-- Walking the Dog
-- Cooking
-- Movies
+### leisure
+- surfing
+- walking the dog
+- cooking
+- movies
